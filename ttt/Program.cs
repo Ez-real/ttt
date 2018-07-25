@@ -18,7 +18,7 @@ namespace ttt
 
              
 
-            Console.WriteLine("测试是否成功，请核查 ");
+            Console.WriteLine("测试是否成功，请核查  ");
         }
     }
 }
