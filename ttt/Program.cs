@@ -10,7 +10,7 @@ namespace ttt
     {
         static void Main(string[] args)
         {
-
+            Console.WriteLine("tym");
         }
     }
 }
